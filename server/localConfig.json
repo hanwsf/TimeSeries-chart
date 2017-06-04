@@ -1,0 +1,13 @@
+{
+  "development": {
+    "note": "Out of the box, the predix-seed app uses mock data, so these values are not required.  Set these values for connecting to real Predix services.",
+    "clientId": "tutorial-svcs",
+    "uaaURL": "https://8fa241c2-9ef7-4c4e-8a94-d8fef9be6531.predix-uaa.run.aws-jp01-pr.ice.predix.io",
+    "base64ClientCredential": "dHV0b3JpYWwtc3ZjczowOTA4d3Nm",
+    "appURL": "http://localhost:5000",
+    "timeseriesURL": "https://time-series-store-predix.run.aws-jp01-pr.ice.predix.io/v1/datapoints",
+    "timeseriesZoneId": "cbe8918f-3052-4454-9ed0-4ced7d932b68",
+    "assetURL": "",
+    "assetZoneId": ""
+  }
+}
